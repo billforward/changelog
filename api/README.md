@@ -10,7 +10,7 @@ This is a public record of the BillForward API changelog
 
 ### 1.2014.296 
 
--   Simplification of Refund and Coupon API - [docs][https://app-sandbox.billforward.net/#/api/method/refunds]
+-   Simplification of Refund and Coupon API -[https://app-sandbox.billforward.net/#/api/method/refunds][docs]
 -   Bug when generating multiple Stripe refunds
 -   Bug in setup components fixed
  
