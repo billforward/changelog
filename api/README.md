@@ -13,8 +13,9 @@ This is a public record of the BillForward API changelog
 -   Simplification of Refund and Coupon API - [docs](https://app-sandbox.billforward.net/#/api/method/refunds)
 -   Bug when generating multiple Stripe refunds
 -   Bug in setup components fixed
+-   Bug in handling of Stripe ACH webhooks
 
 
 >   Released to: sandbox on (2014/12/16 18:12 +00:00)
 
->   Released to: production (PENDING)​
+>   Released to: production (2014/12/17 12:30 +00:00)​
