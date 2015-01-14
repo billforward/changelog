@@ -18,4 +18,15 @@ This is a public record of the BillForward API changelog
 
 >   Released to: sandbox on (2014/12/16 18:12 +00:00)
 
->   Released to: production (2014/12/17 12:30 +00:00)​
+>   Released to: production (2014/12/17 12:30 +00:00)
+
+
+### 1.2015.014
+
+-   General performance improvements
+-   Logging improvements for the Braintree Payment Gateway
+
+
+>   Released to: sandbox on (2015/01/14 17:54 +00:00)
+
+>   Released to: production (tbc)<200b>
