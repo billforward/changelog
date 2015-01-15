@@ -25,6 +25,7 @@ This is a public record of the BillForward API changelog
 
 -   General performance improvements
 -   Logging improvements for the Braintree Payment Gateway
+-   Improved search
 
 
 >   Released to: sandbox on (2015/01/14 17:54 +00:00)
