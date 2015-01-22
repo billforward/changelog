@@ -28,6 +28,6 @@ This is a public record of the BillForward API changelog
 -   Improved search
 
 
->   Released to: sandbox on (2015/01/14 17:54 +00:00)
+>   Released to sandbox on (2015/01/14 17:54 +00:00)
 
->   Released to: production (tbc)<200b>
+>   Released to production on (2015/01/22 12:30 +00:00)<200b>
