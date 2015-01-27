@@ -8,17 +8,16 @@ API Changelog
 
 This is a public record of the BillForward API changelog
 
-### 1.2014.296 
+### 1.2015.027
 
--   Simplification of Refund and Coupon API - [docs](https://app-sandbox.billforward.net/#/api/method/refunds)
--   Bug when generating multiple Stripe refunds
--   Bug in setup components fixed
--   Bug in handling of Stripe ACH webhooks
+-   Add 'companyName' to profiles
+-   Introduced new simplified coupon endpoints to the API
+-   Add semantic meaning to ids, i.e. ACC-B48AE...
 
 
->   Released to: sandbox on (2014/12/16 18:12 +00:00)
+>   Released to sandbox on (2015/01/27 17:00 +00:00)
 
->   Released to: production (2014/12/17 12:30 +00:00)
+>   Released to production on (tbc)
 
 
 ### 1.2015.014
@@ -33,12 +32,14 @@ This is a public record of the BillForward API changelog
 >   Released to production on (2015/01/22 12:30 +00:00)
 
 
-### 1.2015.027
+### 1.2014.296 
 
--   Add 'companyName' to profiles
--   Introduced new simplified coupon endpoints to the API
+-   Simplification of Refund and Coupon API - [docs](https://app-sandbox.billforward.net/#/api/method/refunds)
+-   Bug when generating multiple Stripe refunds
+-   Bug in setup components fixed
+-   Bug in handling of Stripe ACH webhooks
 
 
->   Released to sandbox on (2015/01/27 17:00 +00:00)
+>   Released to: sandbox on (2014/12/16 18:12 +00:00)
 
->   Released to production on (tbc)<200b>
+>   Released to: production (2014/12/17 12:30 +00:00)<200b>
