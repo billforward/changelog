@@ -30,4 +30,15 @@ This is a public record of the BillForward API changelog
 
 >   Released to sandbox on (2015/01/14 17:54 +00:00)
 
->   Released to production on (2015/01/22 12:30 +00:00)<200b>
+>   Released to production on (2015/01/22 12:30 +00:00)
+
+
+### 1.2015.027
+
+-   Add 'companyName' to profiles
+-   Introduced new simplified coupon endpoints to the API
+
+
+>   Released to sandbox on (2015/01/27 17:00 +00:00)
+
+>   Released to production on (tbc)<200b>
