@@ -3,6 +3,14 @@ UI Changelog
 
 This is a public record of the BillForward API changelog
 
+### 2015.28.0 
+
+-   Addition of UI for scheduling webhook retries - [docs](https://app.billforward.net/#/setup/personal/notifications)
+
+>   Released to: sandbox on (2015/28/30 16:31 +00:00)
+
+>   Released to: production on (2015/28/30 15:26 +00:00)
+
 ### 2015.27.0 
 
 -   Addition of companyName to profile in API docs - [docs](https://app.billforward.net/#/api/method/profiles)
