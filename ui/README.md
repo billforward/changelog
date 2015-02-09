@@ -3,6 +3,23 @@ UI Changelog
 
 This is a public record of the BillForward API changelog
 
+### 2015.40.0 
+
+-   Major refactor of Coupons support [docs](https://app-sandbox.billforward.net/#/coupons/add)
+    * Complex coupon builder
+    * Add/Remove coupons on a subscription
+-   Refactor of Tax UI [docs](https://app-sandbox.billforward.net/#/setup/taxation/strategies)
+-   Re-write of Tax API docs - [docs](https://app-sandbox.billforward.net/#/api/method/taxation-strategies)
+-   Simplified payment methods API - [docs](https://app-sandbox.billforward.net/#/api/method/payment-methods)
+-   Addition of Coupon API - [docs](https://app-sandbox.billforward.net/#/api/method/coupons)
+-   Deprecated Taxation Link in docs
+-   Deprecated Payment Method Subscription Links in docs
+-   Deprecated Payment Method Subscription Links in docs
+-   Number of aesthetic changes
+
+>   Released to: sandbox on (2015/02/09 18:15 +00:00)
+
+
 ### 2015.28.0 
 
 -   Addition of UI for scheduling webhook retries - [docs](https://app.billforward.net/#/setup/personal/notifications)
