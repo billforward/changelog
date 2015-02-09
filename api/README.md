@@ -21,6 +21,7 @@ This is a public record of the BillForward API changelog
 
 
 >   Released to sandbox on (2015/01/27 17:00 +00:00)
+
 >   Released to sandbox on (2015/02/09 16:00 +00:00)
 
 >   Released to production on (tbc)
