@@ -12,6 +12,11 @@ This is a public record of the BillForward API changelog
 
 -   Add 'companyName' to profiles
 -   Introduced new simplified coupon endpoints to the API
+-   Introduced default payment methods
+-   Introduced default tax
+-   Simplified payment method API endpoints
+-   Simplified tax API endpoints
+-   General API improvements
 -   Add semantic meaning to ids, i.e. ACC-B48AE...
 
 
