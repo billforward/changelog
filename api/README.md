@@ -20,9 +20,9 @@ This is a public record of the BillForward API changelog
 -   Add semantic meaning to ids, i.e. ACC-B48AE...
 
 
->   Released to sandbox on (2015/01/27 17:00 +00:00)
+>   Released to sandbox (2015/01/27 17:00 +00:00)
 
->   Released to production on (tbc)
+>   Released to production (2015/02/12 14:37 +00:00))
 
 
 ### 1.2015.014
@@ -32,9 +32,9 @@ This is a public record of the BillForward API changelog
 -   Improved search
 
 
->   Released to sandbox on (2015/01/14 17:54 +00:00)
+>   Released to sandbox (2015/01/14 17:54 +00:00)
 
->   Released to production on (2015/01/22 12:30 +00:00)
+>   Released to production (2015/01/22 12:30 +00:00)
 
 
 ### 1.2014.296 
@@ -45,6 +45,6 @@ This is a public record of the BillForward API changelog
 -   Bug in handling of Stripe ACH webhooks
 
 
->   Released to: sandbox on (2014/12/16 18:12 +00:00)
+>   Released to: sandbox (2014/12/16 18:12 +00:00)
 
 >   Released to: production (2014/12/17 12:30 +00:00)<200b>
