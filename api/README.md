@@ -20,9 +20,9 @@ This is a public record of the BillForward API changelog
 -   Add semantic meaning to ids, i.e. ACC-B48AE...
 
 
->   Released to sandbox (2015/01/27 17:00 +00:00)
+>   Released to sandbox (2015/02/09 16:00 +00:00)
 
->   Released to production (2015/02/12 14:37 +00:00))
+>   Released to production (2015/02/12 14:37 +00:00)
 
 
 ### 1.2015.014
