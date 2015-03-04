@@ -3,6 +3,15 @@ UI Changelog
 
 This is a public record of the BillForward API changelog
 
+### 2015.40.1 
+
+-   Buttons to move between production and sandbox
+-   Tweaks to some API/SDK examples
+
+>   Released to: sandbox on (2015/02/18 09:00 +00:00)
+
+>   Released to: production on (2015/02/18 09:00 +00:00)
+
 ### 2015.40.0 
 
 -   Major refactor of Coupons support [docs](https://app-sandbox.billforward.net/#/coupons/add)
@@ -16,8 +25,11 @@ This is a public record of the BillForward API changelog
 -   Deprecated Payment Method Subscription Links in docs
 -   Deprecated Payment Method Subscription Links in docs
 -   Number of aesthetic changes
+-   Improvements on display of migrated subscriptions
 
 >   Released to: sandbox on (2015/02/09 18:15 +00:00)
+
+>   Released to: production on (2015/02/12 14:45 +00:00)
 
 
 ### 2015.28.0 
