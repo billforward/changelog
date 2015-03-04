@@ -8,6 +8,17 @@ API Changelog
 
 This is a public record of the BillForward API changelog
 
+### 1.2015.062
+
+-   Unpaid invoices may be returned to the 'Pending' state
+-   Invoices may now be marked as 'Paid' without taking any payment
+
+
+>   Released to sandbox (2015/03/03 13:00 +00:00)
+
+>   Released to production (2015/03/04 17:17 +00:00)
+
+
 ### 1.2015.027
 
 -   Add 'companyName' to profiles
