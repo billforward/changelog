@@ -2,6 +2,16 @@ UI Changelog
 =============
 
 This is a public record of the BillForward API changelog
+### 2015.68.1 
+
+-   Set default payment methods on account
+-   Delete payment method on account
+-   Support in checkout for multiple gateways/use of BillForward.js
+-   Fixed bug in log-in when password incorrect not showing UI error
+
+>   Released to: sandbox on (2015/02/18 09:00 +00:00)
+
+>   Released to: production on (2015/02/18 09:00 +00:00)
 
 ### 2015.40.1 
 
