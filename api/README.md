@@ -7,6 +7,16 @@ API Changelog
 =============
 
 This is a public record of the BillForward API changelog
+### 1.2015.068
+
+-   Bug where two payment methods could be marked as default for the same account
+-   No longer allow deleted payment methods to be default
+-   Bug handling coupons in the final invoice generated when a subscription expires
+
+
+>   Released to sandbox (2015/03/09 13:00 +12:00)
+
+>   Released to production (2015/03/09 17:17 +12:00)
 
 ### 1.2015.062
 
