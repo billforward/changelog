@@ -2,6 +2,18 @@ UI Changelog
 =============
 
 This is a public record of the BillForward API changelog
+### 2015.75.0
+
+-   Pagination bug fixed where some records (for example subscriptions in a rate plan) would not paginate!
+-   Too many options! UI was sending unnecessary HTTP options requests. Now it sends only what is needed.
+-   Speed optimizations
+-   Select an org. For those in multiple organizatoins, the ability to select which org to be
+-   Minor UI bits and bobs
+
+>   Released to: sandbox on (2015/02/16 16:00 +00:00)
+
+>   Released to: production on (2015/02/16 16:30 +00:00)
+
 ### 2015.68.1 
 
 -   Set default payment methods on account
