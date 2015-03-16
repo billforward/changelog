@@ -7,6 +7,11 @@ API Changelog
 =============
 
 This is a public record of the BillForward API changelog
+
+### 1.2015.075
+
+-   Improved report in BillForward UI for Stripe ACH
+-   
 ### 1.2015.068
 
 -   Bug where two payment methods could be marked as default for the same account
