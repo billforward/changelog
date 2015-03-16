@@ -4,7 +4,7 @@ UI Changelog
 This is a public record of the BillForward API changelog
 ### 2015.75.0
 
--   Pagination bug fixed where some records (for example subscriptions in a rate plan) would not paginate!
+-   Pagination bug fixed where some records, for example subscriptions in a rate plan, would not paginate!
 -   Too many options! UI was sending unnecessary HTTP options requests. Now it sends only what is needed.
 -   Speed optimizations
 -   Select an org. For those in multiple organizatoins, the ability to select which org to be
