@@ -2,6 +2,14 @@ UI Changelog
 =============
 
 This is a public record of the BillForward API changelog
+
+### 2015.100.0
+
+-   Added in CSV, PDF, and HTML export for invoices
+-   Improved export table Invoices export
+-   Fixed setting Profile and address data for organization
+-   Improved trial information in UI
+
 ### 2015.75.0
 
 -   Pagination bug fixed where some records, for example subscriptions in a rate plan, would not paginate!
