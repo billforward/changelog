@@ -8,6 +8,18 @@ API Changelog
 
 This is a public record of the BillForward API changelog
 
+### 1.2015.100
+
+-   Added in CSV, PDF, and HTML export for invoices
+-   Improved export table Invoices export
+-   Minor fix for default payment methods
+-   Fax, VAT number added to profile
+
+
+>   Released to sandbox (2015/03/10 19:00 +12:00)
+
+>   Released to production (2015/03/10 19:00 +12:00)
+
 ### 1.2015.075
 
 -   Improved receipts for Stripe ACH
