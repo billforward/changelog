@@ -3,6 +3,36 @@ UI Changelog
 
 This is a public record of the BillForward API changelog
 
+### 2015.100.0
+
+-   Added in CSV, PDF, and HTML export for invoices
+-   Improved export table Invoices export
+-   Fixed setting Profile and address data for organization
+-   Improved trial information in UI
+
+### 2015.75.0
+
+-   Pagination bug fixed where some records, for example subscriptions in a rate plan, would not paginate!
+-   Too many options! UI was sending unnecessary HTTP options requests. Now it sends only what is needed.
+-   Speed optimizations
+-   Select an org. For those in multiple organizatoins, the ability to select which org to be
+-   Minor UI bits and bobs
+
+>   Released to: sandbox on (2015/02/16 16:00 +00:00)
+
+>   Released to: production on (2015/02/16 16:30 +00:00)
+
+### 2015.68.1 
+
+-   Set default payment methods on account
+-   Delete payment method on account
+-   Support in checkout for multiple gateways/use of BillForward.js
+-   Fixed bug in log-in when password incorrect not showing UI error
+
+>   Released to: sandbox on (2015/02/18 09:00 +00:00)
+
+>   Released to: production on (2015/02/18 09:00 +00:00)
+
 ### 2015.40.1 
 
 -   Buttons to move between production and sandbox
