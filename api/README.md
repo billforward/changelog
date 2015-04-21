@@ -8,6 +8,17 @@ API Changelog
 
 This is a public record of the BillForward API changelog
 
+### 1.2015.104
+
+-   Add support for the Sage Pay payment gateway
+-   API improvements for default payment methods
+
+
+>   Released to sandbox (2015/04/20 13:00 +00:00)
+
+>   Released to production (2015/04/21 14:15 +00:00)
+
+
 ### 1.2015.062
 
 -   Unpaid invoices may be returned to the 'Pending' state
