@@ -3,12 +3,27 @@ UI Changelog
 
 This is a public record of the BillForward API changelog
 
+### 2015.112.0
+
+-   SagePay payment gateway
+-   Improvements in card capture form
+-   Display default cards in subscription view
+-   Minor UI tweaks
+
+>   Released to: sandbox on (2015/04/22 11:00 +00:00)
+
+>   Released to: production on (2015/04/22 11:30 +00:00)
+
 ### 2015.100.0
 
 -   Added in CSV, PDF, and HTML export for invoices
 -   Improved export table Invoices export
 -   Fixed setting Profile and address data for organization
 -   Improved trial information in UI
+
+>   Released to: sandbox on (2015/04/10 13:00 +00:00)
+
+>   Released to: production on (2015/04/10 13:30 +00:00)
 
 ### 2015.75.0
 
