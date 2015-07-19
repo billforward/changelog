@@ -145,7 +145,7 @@ The duration of a Product Rate Plan is now specified on the Product Rate Plan it
 
 ## Trials
 
-Trials are now defined on a Product Rate Plan â€” with default values being specified on the associated Product. When a subscription is of type **Trial**, any charges that are created will have the **trial** flag set to **true**.  When an Invoice is created for these Charges they will receive a 100% discount.  This will result in an Invoice with zero total cost, but with all other values the same (as though the Subscription were not currently in a trial).
+Trials are now defined on a Product Rate Plan with default values being specified on the associated Product. When a subscription is of type **Trial**, any charges that are created will have the **trial** flag set to **true**.  When an Invoice is created for these Charges they will receive a 100% discount.  This will result in an Invoice with zero total cost, but with all other values the same (as though the Subscription were not currently in a trial).
 
 ## Invoices
 
