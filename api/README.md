@@ -8,9 +8,7 @@ API Changelog
 
 This is a public record of the BillForward API changelog
 
-### 1.2015.282
-
-BillForward V1.2015.161 Release Notes
+### 1.2015.161
 
 **TOC**
 
