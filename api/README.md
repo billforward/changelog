@@ -43,7 +43,7 @@ Changing the value or time period of a Charge may result in a change of price.  
 
 ## Invoice issuance Behaviour
 
-The Invoice Issuance Behaviour dictates the state of an Invoice when it is created, either â€˜Pendingâ€™ or â€˜Unpaidâ€™.  This is specified on Product Rate Plans.
+The Invoice Issuance Behaviour dictates the state of an Invoice when it is created, either **Pending** or **Unpaid**.  This is specified on Product Rate Plans.
 
 There are three types of Issuance Behaviour:
 
@@ -55,7 +55,7 @@ There are three types of Issuance Behaviour:
 
 ## Synchronous API endpoints
 
-We have implemented synchronous endpoints for numerous system actions.  These endpoints return the outcome of their operation immediately â€” removing the need to listen for webhooks or poll the API. The new endpoints are listed below:
+We have implemented synchronous endpoints for numerous system actions.  These endpoints return the outcome of their operation immediately — removing the need to listen for webhooks or poll the API. The new endpoints are listed below:
 
 <table>
   <tr>
