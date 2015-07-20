@@ -165,7 +165,7 @@ Backwards compatibility has been maintained so that usage may continue to be set
 
 There is a new API endpoint which may be used to set Pricing Component Values:
 
-[https://app-sandbox.billforward.net/#/api/method/subscriptions/POST?path=%2Fsubscriptions%2F%7Bsubscription-ID%7D%2Fvalues%2F%7Bpricing-component%7D](https://app-sandbox.billforward.net/#/api/method/subscriptions/POST?path=%2Fsubscriptions%2F%7Bsubscription-ID%7D%2Fvalues%2F%7Bpricing-component%7D)
+[POST /subscriptions/{subscription-ID}/values/{pricing-component}](https://app-sandbox.billforward.net/#/api/method/subscriptions/POST?path=%2Fsubscriptions%2F%7Bsubscription-ID%7D%2Fvalues%2F%7Bpricing-component%7D)
 
 This is now the recommended way to set and alter the values associated with a Subscription.  This endpoint may be used to initially set Pricing Component Values and then subsequently to perform upgrades and downgrades.  If possible this endpoint will execute synchronously.
 
