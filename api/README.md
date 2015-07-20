@@ -136,6 +136,10 @@ Trial Invoices now have a zero total cost.
 
 Historically if a rate-plan had usage components it would automatically have an Invoice issuance Behaviour of **Delayed**, this now defaults to a value of **Immediate** to maintain the existing behaviour when creating the rate plan set the value to **Delayed.**
 
+## Products
+
+Product names are now enforced as unique within your organization.
+
 
 # Non-breaking Changes to Existing Features
 
