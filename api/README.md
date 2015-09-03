@@ -182,9 +182,9 @@ When starting a Subscription, if it has a 'current period start' equal to the cu
 The Amendments system has been updated to execute Amendments synchronously when the â€˜actioning timeâ€™ is equal to the current time or earlier.  As with thnew synchronous endpoints described above this removes the need to listen for webhooks.
 
 
->   Released to: sandbox (2014/07/01 13:12 +00:00)
+>   Released to: sandbox (2015/07/01 13:12 +00:00)
 
->   Released to: production TBC
+>   Released to: production (2015/08/26 11:00 +00:00)
 
 
 ### 1.2015.104
