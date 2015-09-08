@@ -1,13 +1,3 @@
-API Changelog
-=============
-
-This is a public record of the BillForward API changelog
-
-API Changelog
-=============
-
-This is a public record of the BillForward API changelog
-
 ### 1.2015.161
 
 **TOC**
