@@ -5,7 +5,7 @@ This is a public record of updates to the BillForward system.
 
 User docs update only:  `1.2016.122.0`
 - http://docs.billforward.net/aggregation-overview/
-- 
+
 Incremental release: `1.2016.112.3`
 - Notes: https://github.com/billforward/changelog/releases/tag/1.2016.112.3
 
