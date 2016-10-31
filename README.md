@@ -4,7 +4,7 @@ Changelog
 This is a public record of updates to the BillForward system.
 
 Release: ` 1.2016.300.0`
-- Notes: https://github.com/billforward/changelog/releases/tag/V1.2016.300.0
+- Notes: https://github.com/billforward/changelog/releases/tag/1.2016.300.0
 
 Patch release: `1.2016.250.3` **on-prem only**
 - Notes: https://github.com/billforward/changelog/releases/tag/1.2016.250.3
