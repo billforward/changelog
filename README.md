@@ -3,6 +3,9 @@ Changelog
 
 This is a public record of updates to the BillForward system.
 
+Amalgamated release: `V1.2016.339.0` to `v1.2017.157.0`
+- Notes: https://github.com/billforward/changelog/releases/tag/1.2016.339.0_to_1.2017.157.0
+
 Patch release: `1.2016.331.20.3` **on-prem only**
 - Notes: https://github.com/billforward/changelog/releases/tag/1.2016.331.20.3
 
