@@ -3,6 +3,9 @@ Changelog
 
 This is a public record of updates to the BillForward system.
 
+Release `V1.2017.236.2` -> `V1.2017.271`
+- Notes: https://github.com/billforward/core/releases/tag/1.2017.271.0.us.sandbox
+
 Amalgamated release: `V1.2016.339.0` to `v1.2017.157.0`
 - Notes: https://github.com/billforward/changelog/releases/tag/1.2016.339.0_to_1.2017.157.0
 
