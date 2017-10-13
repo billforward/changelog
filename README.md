@@ -3,18 +3,20 @@ Changelog
 
 This is a public record of updates to the BillForward system.
 
-Patch Release `V1.2017.271.1`
+Release '1.2017.285.0`
+- Notes: https://github.com/billforward/changelog/releases/tag/1.2017.285.0
+
+Patch Release `1.2017.271.1`
 - Notes: https://github.com/billforward/changelog/releases/tag/1.2017.271.1
 
-Release `V1.2017.236.2` -> `V1.2017.271`
+Release `1.2017.236.2` -> `1.2017.271`
 - Notes: https://github.com/billforward/changelog/releases/tag/1.2017.271
 
-Amalgamated release: `V1.2016.339.0` to `v1.2017.157.0`
+Amalgamated release: `1.2016.339.0` to `1.2017.157.0`
 - Notes: https://github.com/billforward/changelog/releases/tag/1.2016.339.0_to_1.2017.157.0
 
 Patch release: `1.2016.331.20.3` **on-prem only**
 - Notes: https://github.com/billforward/changelog/releases/tag/1.2016.331.20.3
-
 
 Incremental release: `1.2017.38.14`
 - Notes: https://github.com/billforward/changelog/releases/tag/1.2017.38.14
