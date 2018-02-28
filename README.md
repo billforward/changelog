@@ -3,6 +3,27 @@ Changelog
 
 This is a public record of updates to the BillForward system.
 
+Release `1.2018.53.0`
+- Notes: https://github.com/billforward/changelog/releases/tag/1.2018.53.0
+
+Release `1.2018.45.0`
+- Notes: https://github.com/billforward/changelog/releases/tag/1.2018.45.0
+
+Release `1.2018.39.0`
+- Notes: https://github.com/billforward/changelog/releases/tag/1.2018.39.0
+
+Release `1.2018.39.0`
+- Notes: https://github.com/billforward/changelog/releases/tag/1.2018.39.0
+
+Release `1.2018.37.0`
+- Notes: https://github.com/billforward/changelog/releases/tag/1.2018.37.0
+
+Release `1.2018.23.0`
+- Notes: https://github.com/billforward/changelog/releases/tag/1.2018.23.0
+
+Release `1.2018.17.2`
+- Notes: https://github.com/billforward/changelog/releases/tag/1.2018.17.2
+
 Release `1.2017.271.1.1`  **on-prem only**
 - Notes: https://github.com/billforward/changelog/releases/tag/1.2017.271.1.1
 
