@@ -3,6 +3,9 @@ Changelog
 
 This is a public record of updates to the BillForward system.
 
+Release `1.2019.92.0`
+- Notes: https://github.com/billforward/changelog/releases/tag/1.2019.92.0
+
 Release `1.2019.52.0`
 - Notes: https://github.com/billforward/changelog/releases/tag/1.2019.52.0
 
